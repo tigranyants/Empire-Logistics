@@ -1,0 +1,22 @@
+.contacts {
+  margin: 60px 0px;
+}
+
+.contacts__body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 60px;
+}
+
+.contacts__item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.contacts__title__big {
+  margin-bottom: 30px;
+  font-size: 32px;
+  font-weight: 500;
+}/*# sourceMappingURL=contacts.css.map */

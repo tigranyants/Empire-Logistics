@@ -1,0 +1,41 @@
+.services__title.black {
+  color: $black;
+}
+
+.services.white {
+  background-color: $white;
+}
+
+.services__row.white {
+  padding-bottom: 0px;
+  margin-bottom: 60px;
+}
+
+.services__item.black {
+  background-color: $background;
+}
+
+.dropdown__link__body.active {
+  padding: 0;
+}
+
+.description__text {
+  margin-bottom: 40px;
+}
+
+.description__text__title {
+  margin-bottom: 40px;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.description__text__paragraph {
+}
+
+.banner__services {
+  width: 100%;
+  img {
+    width: 100%;
+    object-fit: cover;
+  }
+}
