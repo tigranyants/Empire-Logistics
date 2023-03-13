@@ -6,22 +6,22 @@
  */
 @font-face {
   font-family: "Circe";
-  src: url(/font/CRC65.otf) format("opentype");
+  src: url(../font/CRC65.otf) format("opentype");
   font-weight: 700;
 }
 @font-face {
   font-family: "Circe";
-  src: url(/font/CRC55.otf) format("opentype");
+  src: url(../font/CRC55.otf) format("opentype");
   font-weight: 600;
 }
 @font-face {
   font-family: "Circe";
-  src: url(/font/CRC35.otf) format("opentype");
+  src: url(../font/CRC35.otf) format("opentype");
   font-weight: 400;
 }
 @font-face {
   font-family: "Circe";
-  src: url(/font/CRC25.otf) format("opentype");
+  src: url(../font/CRC25.otf) format("opentype");
   font-weight: 300;
 }
 p {
